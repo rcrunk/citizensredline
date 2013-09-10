@@ -1,0 +1,83 @@
+#logo {
+    text-shadow: 1px 1px 5px #000;
+    font-size: 300%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo .citizen {
+    color: #999;
+}
+.redline {
+    color: #b30000;
+    font-weight: bold;
+}
+div.line {
+    border-top: 1em solid #b30000;
+    border-radius: .6em;
+    margin-bottom: 1.25%;
+    width: 0%;
+}
+.undrawn {
+    visibility: hidden;
+}
+div.line.drawn {
+    width: 100%;
+}
+.reason {
+    padding-left: 0;
+}
+.unsung {
+    display: none;
+}
+.unsung ul {
+    padding-left: 0;
+}
+body {
+    padding-top: 70px;
+    padding-bottom: 1.5%;
+}
+ul.col-sm-12, ul.col-md-6 {
+    /*padding-left: 1em;*/
+}
+.detail {
+    display: none;
+    visibility: hidden;
+}
+.detail.show {
+    visibility: visible;
+    display: block;
+}
+.invisible {
+    display: none !important;
+}
+.r {
+    color: #600;
+}
+.d {
+    color: #006;
+}
+.external-site-image {
+    display: inline-block;
+    max-width: 48px;
+}
+.external-site-image img {
+    margin-top: auto;
+    margin-bottom: auto;
+    bottom: 0;
+    max-width: 48px;
+}
+.external-site-spiel {
+    display: inline-block;
+    width: 88%;
+    padding: .5em;
+}
+@media (max-width: 768px) {
+    #logo {
+        font-size: 200%;
+    }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+    #logo {
+        font-size: 250%;
+    }
+}

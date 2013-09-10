@@ -1,0 +1,8 @@
+README.txt
+target
+.idea
+*.iml
+.DS_Store
+src/**/.DS_Store
+.classpath
+.project
