@@ -108,7 +108,8 @@
       industrial complex, and AIPAC above those of American Citizens. That includes
       not only the line crossing politician, but the party he/she belongs to.
       If you feel compelled to donate politically, do so to individual candidates who
-      are running against the ones who have crossed the red line.
+      are running against the ones who have crossed the red line, or to a third political
+      party.
     </p>
 
     <p class="detail">
